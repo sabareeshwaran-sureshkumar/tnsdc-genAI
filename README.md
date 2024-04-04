@@ -43,13 +43,13 @@ If you prefer to run the notebook locally in Jupyter Notebook, follow these step
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/image-generation-dcgan.git
+    git clone https://github.com/your_username/ImageGeneration.git
     ```
 
 3. Navigate to the project directory:
 
     ```bash
-    cd image-generation-dcgan
+    cd ImageGeneration
     ```
 
 4. Start Jupyter Notebook:
